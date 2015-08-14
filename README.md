@@ -15,7 +15,7 @@ Another Docker Cheat Sheet
 
 A quick/pretty basic Docker cheat sheet. Other ones (see [Links](#links)) are insteresting but I wanted to start my own.
 
-## Prerequisites
+##Prerequisites
 
 None (at least for the time being). This section will be expanded as time goes on. 
 
@@ -49,7 +49,8 @@ docker run --rm -i -t ubuntu /bin/bash
 ### Others commands
 
 * [`docker ps -a`](https://docs.docker.com/reference/commandline/ps) show ALL containers. Omitting the `-a` option only show running containers.
-* [`docker exec -it container /bin/bash`] (https://docs.docker.com/reference/commandline/exec) enters to a running container through a bash shell. 
+* [`docker exec -it container /bin/bash`] (https://docs.docker.com/reference/commandline/exec) enters to a running container using a bash shell.
+*
 
 ````
 some docker code
