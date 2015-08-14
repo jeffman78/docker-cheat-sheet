@@ -71,8 +71,8 @@ More infos about managing docker images
 
 
 ### Using Dockerfile
-* [`docker build -t username/imagename .`](https://docs.docker.com/reference/commandline/build) build a new image based on the Dockerfile located in the current directory. The created image will be named "username/imagename".
-
+* [`docker build -t reponame/tagname .`](https://docs.docker.com/reference/commandline/build) build a new image based on the Dockerfile located in the current directory.
+  ** The `-t` option is optional (repository name/tagname)
 
 ## Misc
 
