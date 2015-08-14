@@ -64,6 +64,12 @@ Misc infos. Keep away the usual mess.
 
 More stuff needs to be added here ! :-)
 
-## Links
+## Links & Credits
 
-* [wsarget - Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
+### Credits
+
+* This Docker cheat sheet is inspirated from [wsarget - Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
+
+### Links
+
+* Nothing (at least for yet)
