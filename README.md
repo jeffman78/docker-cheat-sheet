@@ -49,6 +49,7 @@ docker run --rm -i -t ubuntu /bin/bash
 ### Others commands
 
 * [`docker ps -a`](https://docs.docker.com/reference/commandline/ps) show ALL containers. Omitting the `-a` option only show running containers.
+* [`docker exec -it container /bin/bash`] (https://docs.docker.com/reference/commandline/exec) enters to a running container through a bash shell. 
 
 ````
 some docker code
