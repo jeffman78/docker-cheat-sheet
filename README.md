@@ -67,6 +67,8 @@ More infos about managing docker images
 
 ## Dockerfile
 
+* [Dockerfiles Best Practices](https://docs.docker.com/articles/dockerfile_best-practices/)
+
 ### Dockerfile syntax
 
 
