@@ -7,6 +7,7 @@ Another Docker Cheat Sheet
 * [QuickStart](#quickstart)
 * [Containers](#containers)
 * [Images](#images)
+* [Dockerfile](#dockerfile)
 * [Misc](#misc)
 * [Todo](#todo)
 * [Links](#links)
@@ -59,6 +60,14 @@ some docker code
 ## Images
 
 More infos about managing docker images 
+
+### Dockerfile
+
+#### Dockerfile syntax
+
+#### Using Dockerfile
+* [`docker build .`](https://docs.docker.com/reference/commandline/build) build a new image based on the Dockerfile located in the current directory
+
 
 ## Misc
 
