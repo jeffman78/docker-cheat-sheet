@@ -59,14 +59,19 @@ some docker code
 
 ## Images
 
+The "registry" is a place where local images are stored.
+
+* [`docker images`](https://docs.docker.com/reference/commandline/images) lists images available in the local registry
+* [`docker rmi `](https://docs.docker.com/reference/commandline/rmi) remove a specific image from the local registry
 More infos about managing docker images 
 
-### Dockerfile
+## Dockerfile
 
-#### Dockerfile syntax
+### Dockerfile syntax
 
-#### Using Dockerfile
-* [`docker build .`](https://docs.docker.com/reference/commandline/build) build a new image based on the Dockerfile located in the current directory
+
+### Using Dockerfile
+* [`docker build -t username/imagename .`](https://docs.docker.com/reference/commandline/build) build a new image based on the Dockerfile located in the current directory. The created image will be named "username/imagename".
 
 
 ## Misc
