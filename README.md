@@ -46,7 +46,9 @@ docker run --rm -i -t ubuntu /bin/bash
 * [`docker attach`](https://docs.docker.com/reference/commandline/attach) will connect to a running container.
 * [`docker wait`](https://docs.docker.com/reference/commandline/wait) blocks until container stops.
 
-### Useful commands
+### Others commands
+
+* [`docker ps -a`](https://docs.docker.com/reference/commandline/ps) show ALL containers. Omitting the `-a` option only show running containers.
 
 ````
 some docker code
